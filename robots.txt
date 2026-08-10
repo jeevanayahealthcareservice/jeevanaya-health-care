@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeevanayahealthcareservice.github.io/jeevanaya-health-care/sitemap.xml
